@@ -1,0 +1,9 @@
+.app {
+  background-color: #202124;
+}
+
+.innercard {
+  display: flex;
+  justify-content: space-between;
+}
+
